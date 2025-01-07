@@ -5,6 +5,27 @@ I have worked on testing websites and apps for top ecommerce platforms and servi
 I am an expert in testing theory and proficient with a wide range of testing tools to ensure high product quality. 
 Additionally, I have extensive experience in building and optimizing testing processes on projects.
 
+✨TOOLS AND TECHNOLOGIES
+Project Management Tools:
+Jira, YouTrack, Redmine, Backlog
+API Testing Tools:
+Postman, Swagger, Altair
+Network Analysis Tools:
+Charles, Fiddler
+Development Tools:
+Visual Studio, Android Studio
+Design Tools:
+Figma
+Web Technologies:
+HTML, CSS, SQL
+
+✨HARD SKILLS
+Expert proficiency in testing theory and methodologies
+Proficient in frontend and backend testing tools
+Skilled in creating and maintaining comprehensive test documentation
+Process optimization in testing workflows
+
+
 <!--
 **NatS-QA/NatS-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
