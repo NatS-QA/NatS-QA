@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a QA Engineer with 4 years of experience and a true passion for quality assurance. 
+I have worked on testing websites and apps for top ecommerce platforms and services top companies in Russia. 
+I am an expert in testing theory and proficient with a wide range of testing tools to ensure high product quality. 
+Additionally, I have extensive experience in building and optimizing testing processes on projects.
+
 <!--
 **NatS-QA/NatS-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
