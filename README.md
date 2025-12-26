@@ -13,11 +13,13 @@ Postman, Swagger, Altair
 Network Analysis Tools:
 Charles, Fiddler
 Development Tools:
-Visual Studio, Android Studio
+VS Code, Android Studio
 Design Tools:
 Figma
 Web Technologies:
 HTML, CSS, SQL
+AI:
+Cursor, Claude
 
 ✨HARD SKILLS
 Expert proficiency in testing theory and methodologies
